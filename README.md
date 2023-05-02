@@ -8,6 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWb7UqkBzzwq80p8JnqXuvA50B_hpwZjtQ-Q&usqp=CAU">
+
+
 - 🔭 I’m currently working on **Personal Information Manager**
 
 - 🌱 I’m currently learning **Java, DSA, DAA**
