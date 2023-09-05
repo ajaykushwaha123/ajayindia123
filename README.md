@@ -43,5 +43,6 @@
 
 <center>
   <h1 align="center"> 🔥 Contributions: </h1>
+</center>
 <br/>
 [![Ajay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ajaykushwaha123&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ajaykushwaha123/github-readme-activity-graph)
