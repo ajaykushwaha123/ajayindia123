@@ -41,4 +41,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajaykushwaha123&" alt="ajaykushwaha123" /></p>
 
+<center>
+  <h1 align="center"> 🔥 Contributions: </h1>
+<br/>
 [![Ajay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ajaykushwaha123&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ajaykushwaha123/github-readme-activity-graph)
