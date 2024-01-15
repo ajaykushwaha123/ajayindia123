@@ -1,5 +1,6 @@
  # I'm Ajay Kushwaha, an aspiring Software Developer 👨‍💻
 
+[![](https://visitcount.itsvg.in/api?id=ajaykushwaha123&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
 I’m currently pursuing Bachelor's of Technology in Computer Science. <br>👯 I’m Open for opportunities. <br>🤝 I’m looking for collaborative Projects. <br>🌱 I’m currently learning DSA with Java.<br>💬 Ask me about Java and related technologies <br>
@@ -18,7 +19,8 @@ I’m currently pursuing Bachelor's of Technology in Computer Science. <br>👯 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ajaykushwaha123&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
+[![Ajay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ajaykushwaha123&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ajaykushwaha123/github-readme-activity-graph)
+ </br>
 ---
-[![](https://visitcount.itsvg.in/api?id=ajaykushwaha123&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
